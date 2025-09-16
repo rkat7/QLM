@@ -32,7 +32,7 @@ lark==1.2.2
 lm-format-enforcer==0.10.9
 memray==1.15.0
 mistral_common==1.5.1
-mkl-service==2.4.0
+mkl-service==2.4.2
 mmh3==4.1.0
 msgspec==0.19.0
 multiprocess==0.70.16
