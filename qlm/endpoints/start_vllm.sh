@@ -39,4 +39,4 @@ done
 echo "Model: $MODEL"
 echo "Port: $PORT"
 
-vllm serve $MODEL --port $PORT
+vllm serve $MODEL --port $PORT --dtype half
